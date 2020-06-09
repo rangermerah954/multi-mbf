@@ -1,10 +1,9 @@
 ## Multi Brute Force
 * [Instalation](#installation)
-* [Featurs](#featurs)
+* [Feature](#feature)
 * [YOUTUBE](#youtube)
 
-## Featurs
-* 150+ Dump ID Member Grup
+## Feature
 * Login with Cookie
 * Fast Cracking
 * Extra Password
