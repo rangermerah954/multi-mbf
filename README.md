@@ -10,8 +10,9 @@
 
 ## Installation
 ```
-$ apt-get update
+$ pkg update && pkg upgrade
 $ apt install python -y
+$ pkg install python
 $ apt install git
 $ pip install requests bs4
 $ python3 -m pip install requests bs4
