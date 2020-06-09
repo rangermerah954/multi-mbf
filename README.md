@@ -12,7 +12,7 @@
 ## Installation
 ```
 $ apt-get update
-$ apt install python
+$ apt install python -y
 $ apt install git
 $ pip install requests bs4
 $ python3 -m pip install requests bs4
